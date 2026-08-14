@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-xxythm.saturadar88.shop/sitemap.xml
